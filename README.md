@@ -19,3 +19,6 @@
 - 列表数据展示
 - 分页功能
 - 文件上传
+
+效果图如下：
+![](https://github.com/yinjihuan/vue-elementui/blob/master/demo.png)
